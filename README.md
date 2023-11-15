@@ -59,7 +59,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 <!-- &animation=fadeIn&section=footer&text=🐳&fontAlign=70 -->
 
