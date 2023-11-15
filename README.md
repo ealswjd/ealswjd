@@ -11,6 +11,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
+<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![jpa](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
@@ -27,13 +28,13 @@
 </div>
 <div align=center>
 	<a href="https://mjeong-log.tistory.com/" style=text-decoration:none >
-		<img src="https://img.shields.io/badge/tistory-5881D8?style=flat-square&logo=tistory&logoColor=white" />
+		<img src="https://img.shields.io/badge/Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white" />
 	</a>
 	<a href="mailto:mjjr0424@naver.com" style=text-decoration:none >
-		<img src="https://img.shields.io/badge/Mail-5881D8?style=flat-square&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-09B3AF?style=flat-square&logo=mailgun&logoColor=white" />
 	</a>
 	<a href=" " style=text-decoration:none >
-		<img src="https://img.shields.io/badge/Portfolio-5881D8?style=flat-square&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Portfolio-FFDF6F?style=flat-square&logo=Micro.blog&logoColor=white" />
 	</a>
 	<br>
 </div>
@@ -55,7 +56,7 @@
 <div align='center'
   >
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdana4056&count_bg=%233F76E1&title_bg=%23555555&icon=googlescholar.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fealswjd&count_bg=%233F76E1&title_bg=%23555555&icon=googlescholar.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
