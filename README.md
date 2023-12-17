@@ -5,7 +5,7 @@
 <!-- color=gradient -->
 
 
-<p> 🛠️ Skill 🛠️ </p>
+<p>✨ Tech Stack ✨</p>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -22,10 +22,10 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 <br>
-
+<br>
 <br>
 <div align=center>
-	<p>☁️ SNS ☁️</p>
+	<p>👋 About me 👋</p>
 </div>
 <div align=center>
 	<a href="https://mjeong-log.tistory.com/" style=text-decoration:none >
@@ -34,9 +34,9 @@
 	<a href="mailto:mjjr0424@naver.com" style=text-decoration:none >
 		<img src="https://img.shields.io/badge/Mail-09B3AF?style=flat-square&logo=mailgun&logoColor=white" />
 	</a>
-	<a href=" " style=text-decoration:none >
+<!-- 	<a href=" " style=text-decoration:none >
 		<img src="https://img.shields.io/badge/Portfolio-FFDF6F?style=flat-square&logo=Micro.blog&logoColor=white" />
-	</a>
+	</a> -->
 	<br>
 </div>
 <br>
