@@ -28,9 +28,6 @@
 	<p>👋 About me 👋</p>
 </div>
 <div align=center>
-	<a href="https://mjeong-log.tistory.com/" style=text-decoration:none >
-		<img src="https://img.shields.io/badge/Blog-FF5A5F?style=flat-square&logo=tistory&logoColor=white" />
-	</a>
 	<a href="mailto:mjjr0424@naver.com" style=text-decoration:none >
 		<img src="https://img.shields.io/badge/Mail-09B3AF?style=flat-square&logo=mailgun&logoColor=white" />
 	</a>
