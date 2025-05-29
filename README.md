@@ -54,7 +54,7 @@
 <div align='center'
   >
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fealswjd&count_bg=%233F76E1&title_bg=%23555555&icon=googlescholar.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/ealswjd&color=50dc55&r=v1)
 
 </div>
 
